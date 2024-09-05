@@ -17,7 +17,12 @@ const names = [
     'soorarai potru',
     'oru kal oru kannadi',
     'sachin',
-    'Raja Rani'
+    'Raja Rani',
+    'paththu endrathukulla',
+    '7 am arivu',
+    'love today',
+    'michael madana kama rajan'
+    
 
 
     
@@ -42,7 +47,12 @@ const hint2=[
     '5 ruba Aeroplane',
     'ada theanada',
     'unga smile cute uh iruku',
-    'unaku edhachu thenmozhi kanimozhi nu vaaivarapula irupa, avala thedi thedi luv pannu'
+    'unaku edhachu thenmozhi kanimozhi nu vaaivarapula irupa, avala thedi thedi luv pannu',
+    'Tamil James Bond',
+    'china kaaran kammune iruka maaten',
+    'maama kutty',
+    'sundari'
+    
       
 ]
 
@@ -65,7 +75,11 @@ const hint1=[
     'vaanam enna unga appan veetu soththaaaa?',
     'Adhu enna vaartha? kaaval thurai ungal nanban...deiii',
     'vaseegara',
-    'nee oru saidst'
+    'nee oru sadist',
+    'samantha vs samantha',
+    'arivu iruka?',
+    'revi',
+    'siva rathiri'
 
 ]
 
